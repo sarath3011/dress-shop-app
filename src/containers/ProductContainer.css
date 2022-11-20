@@ -1,0 +1,16 @@
+.images{
+    width: 159px !important;
+    height: 190px !important;
+    margin-top: 20px !important;
+    display: inline-block !important;
+    align-items: center;
+    justify-content: center;
+}
+.header-title{
+    width: 184px;
+    height: 46px;
+    overflow: hidden;
+    display: inline-block !important;
+    align-items: center;
+    justify-content: center;
+}
